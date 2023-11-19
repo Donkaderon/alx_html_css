@@ -10,6 +10,7 @@ body {
 main {
     flex-direction: row;
     flex: auto;
+    justify-content: space-around;
 }
 
 article {
