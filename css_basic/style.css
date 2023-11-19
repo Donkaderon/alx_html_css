@@ -14,12 +14,12 @@ main {
 }
 
 article {
-    flex-grow: 2;
+    flex-grow: 2 1 0;
     overflow-y: auto
 }
 
 aside {
-    flex-grow: 1;
+    flex-grow: 1 1 0;
     overflow-y: auto;
 }
 
