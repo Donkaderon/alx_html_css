@@ -376,6 +376,7 @@
   .section-latest-news{
      display: flex;
      flex-wrap: wrap;
+     position: relative;
   }
 
   .section-latest-news .row {
