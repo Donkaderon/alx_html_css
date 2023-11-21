@@ -220,7 +220,8 @@
   }
 
   .nav .nav-item + .nav-item {
-    margin-top: 10px;
+    
+    margin: 10px;
     
   }
   
