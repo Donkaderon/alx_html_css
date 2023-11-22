@@ -1,0 +1,16 @@
+#banner {
+    max-width: 300px;
+    overflow: hidden;
+    margin: 1%;
+    position:relative;
+}
+
+#action {
+    position: absolute;
+    top: 30px;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    
+}
