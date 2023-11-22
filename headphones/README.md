@@ -1,0 +1,1 @@
+This objectif behind this project is to build a web page from scratch with good responsive design. 
