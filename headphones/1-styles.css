@@ -12,5 +12,28 @@
     width: 100%;
     text-align: center;
     color: white;
-    
+}
+
+.LandingPage {
+    width: 100%;
+}
+
+nav {
+    background: none;
+    padding: 5px;
+    top: 0;
+    width: 100;
+}
+
+nav ul::after{
+    content: "";
+    display: block; 
+    clear: both;
+}
+
+nav li{
+    list-style-type: none;
+    margin: 0 10px;
+    float: right; 
+
 }
