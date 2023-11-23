@@ -49,12 +49,11 @@ nav ul li a {
 .LandingPage {
     width: 100%;
     position: relative;  
-    z-index: 1;
 }
 
 img {
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 
 #banner {
