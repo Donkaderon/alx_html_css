@@ -17,6 +17,7 @@
 
 .LandingPage {
     width: 100%;
+    position: relative;
     
 }
 
@@ -35,6 +36,7 @@
     bottom: 0;
     width: 80%;
     margin: 10%;  
+    margin-top: 0;
     position: relative;
     z-index: 2; 
 }
