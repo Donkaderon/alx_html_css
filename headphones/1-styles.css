@@ -21,6 +21,22 @@ header{
     background: rgba(0,0,0,0.2);
 }
 
+.Logo {
+    cursor: pointer;
+}
+
+nav li {
+    display: inline-block;
+    list-style: none;
+    padding: 0px 20px;
+}
+
+nav li a {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
 
 
 
