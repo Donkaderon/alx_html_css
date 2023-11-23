@@ -28,12 +28,13 @@
 */
 
 .header {
-    background: none;
-    padding: 5px;
+    background: black;
+    padding: 0px;
     top: 0;
     bottom: 0;
     width: 80%;
     margin: 10%;   
+
 }
 
 nav ul::after{
