@@ -17,6 +17,7 @@
 
 .LandingPage {
     width: 100%;
+    
 }
 
 /*nav {
@@ -33,8 +34,9 @@
     top: 0;
     bottom: 0;
     width: 80%;
-    margin: 10%;   
-
+    margin: 10%;  
+    position: relative;
+    z-index: 2; 
 }
 
 nav ul::after{
@@ -47,6 +49,7 @@ nav li{
     list-style-type: none;
     margin: 0 10px;
     float: right; 
-    color: white;
+    color: white; 
 }
+
 
