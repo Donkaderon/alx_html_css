@@ -31,7 +31,8 @@
     background: none;
     padding: 5px;
     top: 0;
-    width: 80%;   
+    width: 80%;
+    margin: 10%;   
 }
 
 nav ul::after{
