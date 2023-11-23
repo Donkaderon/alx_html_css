@@ -18,8 +18,7 @@
     margin: 0 10%; 
     display: flex;
     align-items: center; 
-    position: relative;
-    z-index: 1;
+    position: absolute;
 }
 
 nav ul::after{
@@ -48,7 +47,7 @@ nav ul li a {
 
 .LandingPage {
     width: 100%;
-    position: relative;  
+    flex: 1;  
 }
 
 img {
@@ -72,3 +71,9 @@ img {
     text-align: center;
     color: white;
     }
+
+    .biglp {
+        display: flex;
+        position: relative;
+    }
+
