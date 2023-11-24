@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1440px;
+    height: 1100px;
+}
+
+/*----HEADER----*/
+
+.header {
+    height: 30px;
+    width: 1103.41px;
+    position: relative;
+    top: 35px;
+    left: 50px;
+}
+
+.logo {
+    width: 167.02px;
+    height: 29.46px;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+    position: relative;
+    z-index: 1;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 1041px;
+    top: -37px;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar ul li a {
+    padding: 10px 18px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+
+/*---- SECTION HERO---- */
+.section-hero {
+    max-width: 1440px;
+    max-height: 1093px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hero-header {
+    position: relative;
+    top: 175px;
+}
+
+.hero-header h1 {
+    font-size: 120px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+.hero-header p {
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 20.11px;
+    position: relative;
+    top: 10px;
+}
+
